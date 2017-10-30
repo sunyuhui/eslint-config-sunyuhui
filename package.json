@@ -1,0 +1,20 @@
+{
+  "name": "eslint-config-sunyuhui",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunyuhui/eslint-config-sunyuhui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunyuhui/eslint-config-sunyuhui/issues"
+  },
+  "homepage": "https://github.com/sunyuhui/eslint-config-sunyuhui#readme"
+}
